@@ -6,12 +6,12 @@
 
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibila-shihab&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibilashihab&layout=compact&theme=tokyonight)
 
 
 # How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibila-shihab)
-[![Email](https://img.shields.io/badge/Email-YourName@example.com-blue?logo=gmail)](mailto:s.sibila@outlook.com)
+[![Email](https://img.shields.io/badge/Email-sibila@gmail.com-blue?logo=gmail)](mailto:s.sibila@outlook.com)
 
 
 <!--

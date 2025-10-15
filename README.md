@@ -1,7 +1,17 @@
 ## Hi!
 
-📈 GitHub Stats
+# GitHub Stats
+
 ![Sibila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibilashihab&show_icons=true&theme=radical)
+
+
+# Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibila-shihab&layout=compact&theme=tokyonight)
+
+
+# How to reach me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibila-shihab)
+[![Email](https://img.shields.io/badge/Email-YourName@example.com-blue?logo=gmail)](mailto:s.sibila@outlook.com)
 
 
 <!--

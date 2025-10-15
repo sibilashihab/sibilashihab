@@ -11,7 +11,7 @@
 
 # How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibila-shihab)
-[![Email](https://img.shields.io/badge/blue?logo=outlook)](mailto:s.sibila@outlook.com)
+[![Email](https://img.shields.io/badge/Email-blue?logo=outlook)](mailto:s.sibila@outlook.com)
 
 
 <!--

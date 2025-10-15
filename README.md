@@ -1,12 +1,24 @@
-## Hi!
 
-### GitHub Stats
+## Activity
 
-![Sibila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibilashihab&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sibilashihab&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=sibilashihab&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibilashihab&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+   
+</table>
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibilashihab&layout=compact&theme=tokyonight)
-
+##
 ### Currently Learning
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -18,6 +30,8 @@
 ### How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibila-shihab)
 [![Email](https://img.shields.io/badge/Email-blue?logo=outlook)](mailto:s.sibila@outlook.com)
+
+
 
 
 <!--

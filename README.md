@@ -1,50 +1,49 @@
+### Hi! I'm Sibila!
 
-## Activity
+**First Class Honours Computer Science graduate** - *Specialized in web development and cybersecurity*
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sibilashihab&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=sibilashihab&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibilashihab&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-   
-</table>
+##
+### Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sibilashihab&show_icons=true&theme=tokyonight" alt="GitHub Stats" >
+  <img src="https://streak-stats.demolab.com?user=sibilashihab&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibilashihab&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+##
+### Languages | Frameworks
+
+![React](https://img.shields.io/badge/React-3B4CCA?style=for-the-badge&logo=react&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-7C57C2?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2B5DAE?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C84C4C?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7C57C2?style=for-the-badge&logo=oracle&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2B5DAE?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-3B4CCA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-2B5DAE?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7C57C2?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-C84C4C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3B4CCA?style=for-the-badge&logo=css&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-C84C4C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-7C57C2?style=for-the-badge&logo=blender&logoColor=white)
 
 ##
 ### Currently Learning
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C84C4C?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2B5DAE?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-3B4CCA?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C57C2?style=for-the-badge&logo=typescript&logoColor=white)
+##
 
+### Contact Me!
 
-### How to reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibila-shihab)
-[![Email](https://img.shields.io/badge/Email-blue?logo=outlook)](mailto:s.sibila@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sibila-shihab)
+[![Email](https://img.shields.io/badge/💌%20Email-A076FF?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:s.sibila@outlook.com)
 
-
-
-
-<!--
-**sibilashihab/sibilashihab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##

@@ -1,6 +1,6 @@
-### Hi! I'm Sibila!
+### Hi, I'm Sibila!
 
-**First Class Honours Computer Science graduate** - *Specialized in web development and cybersecurity*
+**First Class Honours Computer Science graduate** - *Specialized in Web Development and Cybersecurity*
 
 ##
 ### Activity
